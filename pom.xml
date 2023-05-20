@@ -23,11 +23,10 @@
         <url>http://18.188.203.210:8081/artifactory/krishna-repo</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
+        <id>snapshots</id>
         <name>krishna-snapshots</name>
         <url>http://18.188.203.210:8081/artifactory/krishna-repo</url>
     </snapshotRepository>
 </distributionManagement>
-
 
 "pom.xml" 50L, 1342B
